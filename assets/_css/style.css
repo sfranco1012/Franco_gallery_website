@@ -1,0 +1,40 @@
+/*Home*/
+body {
+	background-color: #EDC9FF;
+	border-top: solid #5B0088 30px;
+	color: #2A003E;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+a:link, a:visited {
+    display: block;
+    width: 200px;
+    font-weight: bold;
+    color: #BB00BB;
+    background-color: ##FFAAFF;
+    text-align: center;
+    padding: 6px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover, a:active {
+    background-color: #13EFDC;
+}
+div {
+	float: left;
+}
+/*About Me*/
+
+
+
+
